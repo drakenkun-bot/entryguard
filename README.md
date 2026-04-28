@@ -126,14 +126,10 @@ Or deploy to Railway:
 3. Add environment variables in Railway dashboard
 4. Deploy ✅
 
+
+
 ---
 
-## 🏆 Hackathon Submission
+Built using [Birdeye Data API](https://bds.birdeye.so)
 
-**Competition:** Birdeye BIP Competition Sprint 2  
-**Tags:** `@birdeye_data` `#BirdeyeAPI`  
 **Birdeye endpoints:** `/defi/token_overview`, `/defi/token_security`, `/defi/ohlcv`, `/defi/token_trending`
-
----
-
-Built with ❤️ using [Birdeye Data API](https://bds.birdeye.so)
