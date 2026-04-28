@@ -54,7 +54,7 @@ Entry Guard scores **4 signals** (each 0–3):
 ### 1. Clone & Install
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/drakenkun-bot/entryguard
 cd entry-guard
 npm install
 ```
